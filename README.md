@@ -7,3 +7,7 @@
 
 ### Machine Learning
 - exercise-underfitting-and-overfitting.ipynb : Step 1 (22.07.06)
+
+### Pandas
+- exercise-summary-functions-and-maps.ipynb : 4, 5, 6, 7 (22.07.09)
+

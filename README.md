@@ -7,3 +7,9 @@
 
 ### Machine Learning
 - exercise-underfitting-and-overfitting.ipynb : Step 1 (22.07.06)
+
+### Pandas
+- exercise: summary functions and maps : 5번, 6번
+- exercise-grouping-and-sorting.ipynb : 1번, 3번, 6번
+
+
